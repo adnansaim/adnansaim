@@ -9,7 +9,7 @@
 - 🥰 I love to learn new things and colaborate with other developers  
   
 
-- 🌱 I’m currently learning React and JS advance concepts  
+- 🌱 I’m currently learning React JS 
   
 
 - ❓ Ask me about anything related to Javascript and related technologies  
